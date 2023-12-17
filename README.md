@@ -13,5 +13,7 @@
 6. Выполнить слияние новой ветки в свою основную.
 
 Итог
-
+<details>
+<summary>Screenshot</summary>
 <img src="source/Heat_Map.png">
+</details>
