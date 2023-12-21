@@ -7,13 +7,13 @@
 #include <time.h>
 #include <math.h>
 
-float PL(float f, float d){}
+float PL(float f, float d);
 
-float delay(int N, float f){}
+float delay(int N, float f);
 
-int DrawPixel(QPainter* Pix, int x, int y){}
+int DrawPixel(QPainter* Pix, int x, int y);
 
-int* N_of_obstructions(QPainter* Pix, QPixmap* Map, int *Number, int x0, int x1, int y0, int y1) {}
+int* N_of_obstructions(QPainter* Pix, QPixmap* Map, int *Number, int x0, int x1, int y0, int y1);
 
 class Obstruction { //препятствия
 public:
